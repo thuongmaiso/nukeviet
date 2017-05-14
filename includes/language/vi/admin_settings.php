@@ -23,7 +23,8 @@ $lang_module['global_config'] = 'Cấu hình chung';
 $lang_module['site_config'] = 'Cấu hình site';
 $lang_module['lang_site_config'] = 'Cấu hình site Theo ngôn ngữ: %s';
 $lang_module['bots_config'] = 'Máy chủ tìm kiếm';
-
+$lang_module['mod_cronjobs'] = 'Tiến trình tự động';
+$lang_module['mod_language'] = 'Ngôn ngữ';
 $lang_module['site_domain'] = 'Tên miền chính của site';
 $lang_module['sitename'] = 'Tên gọi của site';
 $lang_module['theme'] = 'Giao diện mặc định cho PC';
